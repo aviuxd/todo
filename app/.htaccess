@@ -1,0 +1,4 @@
+PassengerEnabled on
+PassengerAppRoot /home/avinabsi/aviuxd.com
+SetEnv NODE_ENV production
+SetEnv NODE_PATH /avinabsi/lib/node_modules

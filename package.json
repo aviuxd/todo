@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "version": "0.0.0",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "author": {
+    "name": "Scotch"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "mongoose": "~3.6.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "readme": "# Node Todo App\n\nA Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.\n\nNode provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.\n\n## Requirements\n\n- [Node and npm](http://nodejs.org)\n\n## Installation\n\n1. Clone the repository: `git clone git@github.com:scotch-io/node-todo`\n2. Install the application: `npm install`\n3. Start the server: `node server.js`\n4. View in browser at `http://localhost:8080`\n\n## Tutorial Series\n\nThis repo corresponds to the Node Todo Tutorial Series on [scotch.io](http://scotch.io)\n\nEach branch represents a certain tutorial.\n- tut1-starter: [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)\n- tut2-services: Coming Soon\n- tut3-auth: Coming Soon\n- tut4-sockets: Coming Soon\n- tut5-redis: Coming Soon\n- tut6-organization: Coming Soon\n\nHappy Todo-ing!\n\n![Todo-aholic](http://i.imgur.com/ikyqgrn.png)\n",
+  "readmeFilename": "README.md",
+  "_id": "node-todo@0.0.0",
+  "dist": {
+    "shasum": "6e73fae971e0575ee3e8c5f3f9233b597954b766"
+  },
+  "_from": "node-todo-master"
+}
